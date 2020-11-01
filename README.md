@@ -9,7 +9,6 @@ I am Raghav
 A Computer Science student looking out for small opportunities that enhance me as an individual and
 help me acquire a wider range of skills.
 
-I look forward to connecting and learning from my classmates, professors and Leaders in the Industry.
 
 ![Raghav's Github Stats](https://github-readme-stats.vercel.app/api?username=RaghavDabra&show_icons=true&theme=midnight-purple)
 
