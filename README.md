@@ -9,6 +9,7 @@ I am Raghav
 A Computer Science student looking out for small opportunities that enhance me as an individual and
 help me acquire a wider range of skills.
 
+Connect with me 
 
 <!-- display the social media buttons in your README -->
 
@@ -24,7 +25,6 @@ help me acquire a wider range of skills.
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 
