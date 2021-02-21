@@ -1,4 +1,5 @@
-I am Ragha
+I am Raghav
+
 • Interested in working with real databases, real data science tools, and real-world datasets.
 
 • I have intermediate knowledge in how AI can be applied & how can we build AI strategies. 
