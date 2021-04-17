@@ -1,13 +1,8 @@
 I am Raghav
 
-• Interested in working with real databases, real data science tools, and real-world datasets.
+• I have good knowledge on machine learning models 
 
-• I have intermediate knowledge in how AI can be applied & how can we build AI strategies. 
-
-• I know how Pentration Testing works & Cyber Security analysis
-
-A Computer Science student looking out for small opportunities that enhance me as an individual and
-help me acquire a wider range of skills.
+• I mostly work on cyber security skills and pentesting
 
 Connect with me 
 
