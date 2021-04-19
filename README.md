@@ -2,7 +2,7 @@ I am Raghav
 
 • I have good knowledge on machine learning models 
 
-• I mostly work on cyber security skills and pentesting
+• I mostly work on cyber security and pentesting
 
 Connect with me 
 
