@@ -4,8 +4,11 @@ I am Raghav
 
 
 • I mostly work on cyber security stuff
+
 • I will surely like to work with people who work with networks and security
+
 • I am keen to learn more about Ml and Dl models 
+
 • I also sometimes work on designs (Figma, PS, Sparks AR)
 
 ###
