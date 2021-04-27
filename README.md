@@ -1,16 +1,11 @@
-![footer](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif) I am Raghav
 
-• I have good knowledge on machine learning models 
-
-• I mostly work on cyber security and pentesting
-
+![footer](https://media.giphy.com/media/EppzaSdmWOtb5KyeJj/giphy.gif) 
 
 I am Raghav
 
 • I have good knowledge on machine learning models 
 
 • I mostly work on cyber security and pentesting
-
 
 
 
@@ -133,9 +128,7 @@ HTML & CSS                          ██░░░░░░░░░░░░�
 </div>
 
 #
-
-![footer](https://github.com/RaghavDabra/images/blob/main/hacker-background-10.jpg)
-
+![footer](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif) 
 
 ----
 
