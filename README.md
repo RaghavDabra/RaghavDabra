@@ -96,9 +96,7 @@ HTML & CSS                          ██░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-##  Connect With Me 
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/Handshake.gif" height="32px" style="max-width:100%;">
+##  Connect With Me   <a target="_blank">    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/Handshake.gif" height="32px" style="max-width:100%;">
   </a>
 </h1>
 
