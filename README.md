@@ -2,9 +2,11 @@
 <img src="https://media.giphy.com/media/115BJle6N2Av0A/giphy.gif" width="1000" height="400"/>
 I am Raghav
 
-• I have good knowledge on machine learning models 
 
-• I mostly work on cyber security and pentesting
+• I mostly work on cyber security stuff
+• I will surely like to work with people who work with networks and security
+• I am keen to learn more about Ml and Dl models 
+• I also sometimes work on designs (Figma, PS, Sparks AR)
 
 ###
 
