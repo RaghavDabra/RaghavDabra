@@ -134,7 +134,7 @@ HTML & CSS                          ██░░░░░░░░░░░░�
 </div>
 
 #
-![footer](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif) 
+![footer](https://media.giphy.com/media/xULW8v7LtZrgcaGvC0/giphy.gif) 
 
 ----
 
