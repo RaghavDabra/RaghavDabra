@@ -1,4 +1,4 @@
-![footer](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)     I am Raghav
+![footer](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif) I am Raghav
 
 • I have good knowledge on machine learning models 
 
