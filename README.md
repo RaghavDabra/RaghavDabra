@@ -25,6 +25,7 @@ Hi there my name is Raghav Dabra
 ![](https://komarev.com/ghpvc/?username=RaghavDabra&color=blueviolet&style=plastic)
 
 
+<img align="Right" width="200" height="200" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif">
 #
 
 
