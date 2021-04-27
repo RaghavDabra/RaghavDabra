@@ -119,21 +119,6 @@ HTML & CSS                          ██░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-  <
-  </a>
-</p>
-
-#
-
-
-<p align="center">
-  <a href='https://github.com/RaghavDabra/images/blob/main/Capture.JPG'>
-    <img width="75%" src="https://github.com/RaghavDabra/images/blob/main/32571473-80863724-c495-11e7-92fe-73a83240b7d7.png"/>
-   
-  </a>
-</p>
-
-<h1>
   Connect With Me 
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/Handshake.gif" height="32px" style="max-width:100%;">
@@ -155,9 +140,6 @@ HTML & CSS                          ██░░░░░░░░░░░░�
   </a>     
 </p>
 <br/>
-
-
-
 
 
 
