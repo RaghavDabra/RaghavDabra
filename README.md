@@ -119,28 +119,17 @@ HTML & CSS                          ██░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<p align="center">
-  <a>
-    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
-  </a>
-  <a>
-    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
+  <
   </a>
 </p>
 
 #
 
-<p align="center">
-  <a href="https://github.com/JayantGoel001">
-    <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
-  </a>
-  <h4 align="center"><code>📊 GitHub Metrics</code></h4>
-</p>
 
 <p align="center">
-  <a href='https://github.com/JayantGoel001/'>
-    <img width="75%" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.svg"/>
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.detailed.svg" width="75%"/>
+  <a href='https://github.com/RaghavDabra/images/blob/main/Capture.JPG'>
+    <img width="75%" src="https://github.com/RaghavDabra/images/blob/main/32571473-80863724-c495-11e7-92fe-73a83240b7d7.png"/>
+   
   </a>
 </p>
 
@@ -153,50 +142,23 @@ HTML & CSS                          ██░░░░░░░░░░░░�
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/JayantGoel001/" target="_blank">
+  <a href="https://www.linkedin.com/in/raghavdabra/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/linkedin.svg"/></code>
-  </a>
-  <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
-    <code><img  height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/facebook.svg"/></code>
-  </a>
-  <a href="https://www.instagram.com/jayantgoel001/" target="_blank">
+  
+  <a href="https://www.instagram.com/raghav__dabra/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/instagram.svg"/></code>
   </a>
-  <a href="https://twitter.com/JayantGoel001" target="_blank">
+  <a href="https://twitter.com/RaghavDabra4" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/twitter.svg"/></code>
   </a>
-  <a href="https://dev.to/jayantgoel001">
-    <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
+
   </a>     
 </p>
 <br/>
 
-<p align="center">
-  <a href="https://www.hackerrank.com/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/hr.png"/></code>
-  </a>
-  
-  <a href="http://www.codeforces.com/profile/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/cf.png"/></code>
-  </a>
-  
-  <a href="https://www.hackerearth.com/@jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/he.svg"/></code>
-  </a>
-  
-  <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/cc.svg"/></code>
-  </a>
-</p>
 
-<br/>
-<br/>
 
-<p align="center">
-  <a href="https://archiveprogram.github.com/">
-    <img alt="Github Arctic Vault Contributor" src = "https://github.com/JayantGoel001/JayantGoel001/blob/master/arctic.gif" width="100px" height="100px">
-  </a>
-</p>
+
 
 
 <div align="center">
