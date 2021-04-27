@@ -21,15 +21,12 @@ Hi there my name is Raghav Dabra
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavDabra&theme=midnight-purple&layout=compact)](https://github.com/RaghavDabra/github-readme-stats)
 
 
+<img align="Right" width="200" height="200" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif">
 
 ![](https://komarev.com/ghpvc/?username=RaghavDabra&color=blueviolet&style=plastic)
 
 
-<img align="Right" width="200" height="200" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif">
-#
 
-
-<img align="Right" width="100" height="100" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif">
 
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
