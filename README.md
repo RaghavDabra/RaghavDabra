@@ -1,4 +1,4 @@
-![footer](https://gfycat.com/deliriousresponsibleairedaleterrier) 
+![footer](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif) 
 
 I am Raghav
 
