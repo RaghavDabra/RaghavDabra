@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/115BJle6N2Av0A/giphy.gif" width="1000" height="100"/>
+<img src="https://media.giphy.com/media/115BJle6N2Av0A/giphy.gif" width="800" height="100"/>
 I am Raghav
 
 • I have good knowledge on machine learning models 
