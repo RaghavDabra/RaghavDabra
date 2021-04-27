@@ -28,8 +28,7 @@ Hi there my name is Raghav Dabra
 #
 
 
-#
-![footer](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif) 
+<img align="Right" width="100" height="100" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif">
 
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
